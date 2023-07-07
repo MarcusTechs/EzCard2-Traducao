@@ -1,4 +1,4 @@
-# Tradução do programa EZCARD2
+# Tradução em português EZCARD2
 
 📚✨ EZCARD2: Para máquinas de gravação a laser! 💪🔥
 
