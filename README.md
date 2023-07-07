@@ -1,6 +1,7 @@
 # Tradução do programa EZCARD2
 
-https://content.instructables.com/FZX/M9K9/KPPHEV5Q/FZXM9K9KPPHEV5Q.png?auto=webp&frame=1&md=3edcc18c5768a4702f1aee6bdadd037b
+![FZXM9K9KPPHEV5Q](https://github.com/MarcusTechs/EzCard2-Traducao/assets/138902771/9d1440fa-6eee-43e4-a006-ce2bb576cfbd)
+
 
 📚✨ EZCARD2: Máquinas de gravação a laser! 💪🔥
 
