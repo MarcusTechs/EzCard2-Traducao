@@ -9,7 +9,7 @@ Traduzido de forma manual e tecnica.
 98% do programa traduzido - Caso queira colocar sua empresa insira após a variavel COMPANY;
 
 
-# Tradução realizada manual de forma tecnica
+# Como instalar
 
 Arquivo necessário para a tradução na aba Files(Arquivos), nome: LANG_PTBR.ini
 
