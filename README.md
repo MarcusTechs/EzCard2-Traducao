@@ -1,13 +1,12 @@
 # Tradução do programa EZCARD2
 
+![FZXM9K9KPPHEV5Q](https://github.com/MarcusTechs/EzCard2-Traducao/assets/138902771/bdbdc002-ad4e-41ee-8e85-ebde7fed0cd6)
+
 EZCARD2 é usado para máquinas que gravam a laser.
 
 Traduzido de forma manual e tecnica.
 
 98% do programa traduzido - Caso queira colocar sua empresa insira após a variavel COMPANY;
-
-
-![FZXM9K9KPPHEV5Q](https://github.com/MarcusTechs/EzCard2-Traducao/assets/138902771/bdbdc002-ad4e-41ee-8e85-ebde7fed0cd6)
 
 
 # Tradução realizada manual de forma tecnica
