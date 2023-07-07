@@ -1,6 +1,7 @@
 # Tradução do programa EZCARD2
 
 EZCARD2 é usado para máquinas que gravam a laser.
+
 98% do programa traduzido - Caso queira colocar sua empresa insira após a variavel COMPANY;
 
 # Tradução realizada manual de forma tecnica
