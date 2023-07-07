@@ -1,0 +1,1 @@
+# EzCard2-Traducao
