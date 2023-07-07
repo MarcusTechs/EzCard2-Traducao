@@ -5,7 +5,7 @@
 ![FZXM9K9KPPHEV5Q](https://github.com/MarcusTechs/EzCard2-Traducao/assets/138902771/9d1440fa-6eee-43e4-a006-ce2bb576cfbd)
 
 
-#🔹 Para instalar a tradução, siga esses passos:
+# 🔹 Para instalar a tradução, siga esses passos:
 
 
 1️⃣ Baixe o arquivo de tradução LANG_PTBR.ini na aba "Arquivos" (Files).
